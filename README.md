@@ -9,9 +9,8 @@
 
 ## >> SOBRE MIM
 
-- **Curioso** da área de tecnologia;
-- Foco em **UI e UX e gestão de projeto**;
-- Experiência em **Desinging UX e Gerenciamento de projetos**;
+- Foco em **UI e UX**;
+- Experiência em **Desinging UX**;
 - Interessado na área de **Desenvolvimento de Jogos**.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=9191dd&height=3&width=100%25" width="100%"/>
@@ -20,7 +19,6 @@
 
 ### Experiência com:
 
-![Python](https://img.shields.io/badge/Python-14171A?style=for-the-badge&logo=python&logoColor=9191dd)
 ![HTML5](https://img.shields.io/badge/HTML5-14171A?style=for-the-badge&logo=html5&logoColor=9191dd)
 ![CSS](https://img.shields.io/badge/CSS-14171A?style=for-the-badge&logo=css&logoColor=9191dd)
 ![JS](https://img.shields.io/badge/JS-14171A?style=for-the-badge&logo=javascript&logoColor=9191dd)
@@ -28,8 +26,6 @@
 ![React](https://img.shields.io/badge/React-14171A?style=for-the-badge&logo=react&logoColor=9191dd)
 ![Kotlin](https://img.shields.io/badge/Kotlin-14171A?style=for-the-badge&logo=kotlin&logoColor=9191dd)
 ![XML](https://img.shields.io/badge/XML-14171A?style=for-the-badge&logo=xml&logoColor=9191dd)
-![Git](https://img.shields.io/badge/Git-14171A?style=for-the-badge&logo=git&logoColor=9191dd)
-![Docker](https://img.shields.io/badge/Docker-14171A?style=for-the-badge&logo=docker&logoColor=9191dd)
 
 ### Ferramentas & Outros:
 
