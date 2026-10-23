@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,120:b1b1ff&height=150&section=header&text=JOÃO%20GUILHERME&fontSize=48&fontColor=F5F2EA&fontAlignY=45&desc=UX%20Desingner%20%7C%20Project%20Desingner&descAlignY=70&animation=fadeIn&descSize=18&descColor=f3701e&fontFamily=Sans" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,120:b1b1ff&height=150&section=header&text=JOÃO%20GUILHERME&fontSize=48&fontColor=F5F2EA&fontAlignY=45&desc=UX%20Designer%20%7C%20Project%20Designer&descAlignY=70&animation=fadeIn&descSize=18&descColor=f3701e&fontFamily=Sans" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c0c0c0?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joaoguilhermebarrosdossantos)
 [![Gmail](https://img.shields.io/badge/Gmail-9191dd?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:jgbds9@gmail.com)
@@ -10,7 +10,7 @@
 ## >> SOBRE MIM
 
 - Foco em **UI e UX**;
-- Experiência em **Desinging UX**;
+- Experiência em **Designing UX**;
 - Interessado na área de **Desenvolvimento de Jogos**.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=9191dd&height=3&width=100%25" width="100%"/>
