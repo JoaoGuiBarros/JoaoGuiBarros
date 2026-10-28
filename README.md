@@ -15,6 +15,62 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=9191dd&height=3&width=100%25" width="100%"/>
 
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 SMAN — Monitoramento de ambientes
+
+Sistema de monitoramento ambiental baseado em IoT, com coleta de dados de sensores, comunicação via MQTT, integração com o backend e armazenamento em bancos de dados relacionais e não relacionais.
+
+**Tecnologias:** `ESP32` · `MicroPython` · `MQTT` · `WebSocket` · `Node.js` · `PostgreSQL` · `MongoDB` · `Docker`
+
+<br/>
+
+<a href="https://github.com/alvarokaycss/projeto-sman">
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-9191dd?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver repositório do SMAN"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 PorTable
+
+Aplicação focada na criação e no gerenciamento de fichas de Role-Playing Game (RPG) com base em uma estrutura modular. A interface e a lógica do lado do cliente foram implementadas utilizando as tecnologias web HTML5, CSS e JavaScript (JS). Para o gerenciamento e a persistência estruturada dos dados, o sistema faz uso das plataformas de banco de dados Firebase e SQLite.
+
+**Tecnologias:** `HTML5` · `CSS` · `JS` · `Firebase` · `SQLite`
+
+<br/>
+
+<a href="https://github.com/PedroVilelaPera/Portable">
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-9191dd?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver repositório dos projetos de Engenharia de Dados"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 DININ
+Recriação interativa do clássico minijogo de navegador no estilo "dino-runner". Este projeto foi integralmente concebido e desenvolvido utilizando a plataforma de criação de jogos (game engine) Godot, focando na reprodução mecânica do título original.
+
+**Tecnologias:** `Godot` · `GDScript`
+
+<br/>
+
+<a href="https://github.com/JoaoGuiBarros/DININ">
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-9191dd?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver repositório do Assistente de Meta"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4b607f&height=3&width=100%25" width="100%" alt=""/>
+
 ## >> STACK
 
 ### Experiência com:
