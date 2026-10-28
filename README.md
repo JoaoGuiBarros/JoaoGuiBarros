@@ -65,7 +65,20 @@ Recriação interativa do clássico minijogo de navegador no estilo "dino-runner
 </a>
 
 </td>
+<td width="50%" valign="top">
 
+### 📰 Portable-Mobile
+Versão móvel da aplicação focada na criação e no gerenciamento de fichas de Role-Playing Game (RPG) com base em uma estrutura modular. A interface e a lógica do lado do cliente foram adaptadas para o ambiente mobile, sendo implementadas por meio das tecnologias Kotlin e XML, com suporte adicional de JavaScript (JS). Para o gerenciamento e a persistência estruturada dos dados, o sistema mantém a integração com as plataformas de banco de dados Firebase e SQLite.
+
+**Tecnologias:** `Kotlin` · `XML` · `JS` · `Firebase` · `SQLite`
+
+<br/>
+
+<a href="https://github.com/PedroVilelaPera/PorTable-Mobile">
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-9191dd?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver repositório dos projetos de Engenharia de Dados"/>
+</a>
+
+</td>
 </tr>
 </table>
 
